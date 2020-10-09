@@ -1,23 +1,4 @@
-
-       Royal Mint Network________________________________
-       This computer system is the property of Royal Mint
-       Unauthorized access and improper use is prohibited.
-       Any activity on the system is subject to monitoring
-       by Royal Mint at any time. Anyone who uses the system
-       consents to such monitoring and agrees that the
-       results of such  monitoring without limitation
-       ___________________________________________________                      
-
-
-
-
-User Access Verification
-
-Username: rmit
-Password:
-SWBL3_104_IT>en
-Password:
-SWBL3_104_IT#show int
+SW1#show int
 Vlan1 is administratively down, line protocol is down
   Hardware is EtherSVI, address is 2c3e.cf65.ecc0 (bia 2c3e.cf65.ecc0)
   MTU 1500 bytes, BW 1000000 Kbit, DLY 10 usec,
